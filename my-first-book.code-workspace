@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../my-first-book"
+		},
+		{
+			"name": "bk",
+			"path": "../bk"
+		},
+		{
+			"name": "intg",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
