@@ -18,4 +18,6 @@
 
 - After a few minutes, navigate back to your new repository, go to `Settings`, then `Pages`, click on the link that follows **Your site is live at** and copy that address to the `About` settings on your repositories landing page on Github.
 
-- THEN ***complexicate***
+- OPTIONAL: Create a backup repository by copying all of your folders from your WORKING new directory to backup sandbox, to have a fallback position, a reference point or just in case you want to rollback to a simpler thing that worked.
+
+- THEN ***complexicate*** at will.
