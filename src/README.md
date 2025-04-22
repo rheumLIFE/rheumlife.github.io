@@ -1,4 +1,6 @@
 # MANIFESTO: STRATEGIC BLUEPRINT FOR DIGITAL AUTONOMY
+
+It is an absolutely fabulous time for high agency people to be alive; this manifesto is fundamentally about [becoming a higher agency person](https://x.com/i/grok/share/izQxmDXeoQI8Gk6mUj7SzIY31), specifically by taking greater responsibility for intelligence gathering and personal knowledge engineering and autodidactic skills development. 
 #### High agency people are reclaiming digital agency
 
 *Low agency people do not want to be bothered with the tasks of leveling up skills and staying in charge of their destiny.* But high agency people know better -- they understand why, in a digital age, ALL of the news, ALL of what they see on social media, all search engine results whether they are tracked or not, ALL of the convenient advertisement or product recommendation feeds they happen to see, ALL of the content suggested for them on YouTube or other purveyors ... **ALL OF IT** is being fed  to them to manipulate their purchases or choices.  
