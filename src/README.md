@@ -1,7 +1,11 @@
 # MANIFESTO: STRATEGIC BLUEPRINT FOR DIGITAL AUTONOMY
-#### Reclaiming digital agency
+#### High agency people are reclaiming digital agency
 
-The digital landscape is increasingly dominated by artificial intelligence systems that shape what we see, believe, and understand. While promising convenience, these systems have centralized unprecedented power in the hands of a few technology corporations who control both the algorithms and the data they process.
+*Low agency people do not want to be bothered with the tasks of leveling up skills and staying in charge of their destiny.* But high agency people know better -- they understand why, in a digital age, ALL of the news, ALL of what they see on social media, all search engine results whether they are tracked or not, ALL of the convenient advertisement or product recommendation feeds they happen to see, ALL of the content suggested for them on YouTube or other purveyors ... **ALL OF IT** is being fed  to them to manipulate their purchases or choices.  
+
+**High agency people understand WHY they must sieze control of their information and intelligence gathering.**
+
+For decades, if not more, the digital landscape has been increasingly dominated by recommendation engines and artificial intelligence systems that shape what we see, believe, and understand. While *promising* convenience *for those who do really consider what is happening*, these systems have centralized unprecedented power, *perhaps to a greater, much more subtle extent than in Orwell's 1984, in the hands of a few technology corporations who control both the algorithms and the data they process.
 
 Personal Assistant Agentic Systems (PAAS) represent both ***risk*** and **opportunity**:
 
@@ -30,14 +34,14 @@ This is not utopian speculation but practical engineering work that has already 
 
 
 
-### Table of Contents
+## STRATEGY FOR ACHIEVING THE IMPLEMENTATION
 
 ##### With a complete how-to for we plan to dogfood intelligence gathering methods into a PAAS intelligence gathering framework.
 
-- [PRELUDE: THE GASEOUS NATURE OF CREATIVE PROCESS](#prelude-the-gaseous-nature-of-creative-process)
+- [PRELUDE: THE GASEOUS NATURE OF HUMAN CREATIVE PROCESSES](#prelude-the-gaseous-nature-of-creative-process)
 - [I. BOTTLING THE AMBIENT VIBE: COMPREHENSIVE CAPTURE ARCHITECTURE](#i-bottling-the-ambient-vibe-comprehensive-capture-architecture)
   - [A. The Meta Physics or Observability Engineering of Creative Gas Capture](#a-the-meta-physics-of-creative-capture)
-  - [B. Beyond The Facebook Interface: Technical Foundations in Tauri/Rust/Svelte](#b-technical-foundations-in-taurirustsvelte)
+  - [B. Beyond The Facebook Interface: Technical Foundations in Tauri/Rust/Svelte ... why Tauri/Rust and not JS/GoLang](#b-technical-foundations-in-taurirustsvelte)
   - [C. Multi-Modal Sensory Capture Implementation, ie Smell It Cooking](#c-multi-modal-sensory-capture-implementation)
   - [D. Year One Implementation Milestones](#d-year-one-implementation-milestones)
   - [E. Dogfooding Our Own Dogfooded Development Environment](#e-dogfooding-our-own-development)
