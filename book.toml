@@ -3,4 +3,4 @@ authors = ["MarkBruns"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Build A Rust Based Intelligence Gathering System"
+title = "Building A Rust Based Intelligence Gathering System"
