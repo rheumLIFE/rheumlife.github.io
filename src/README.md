@@ -2,7 +2,14 @@
 
 #### Implementing Obervability Engineering in Branch Vibe Coding"
 
-*Dig the architectural vision for [GitProjMgr](https://fartslive.github.io/roadmap/2025/04/15/observability-for-AI-assisted-project-planning-Git-client.html), so you can appreciate the beauty of* **the Fartler approach** ... ***as in "fartling up some vibe" ... never mind commit msg discipline, an AI fart butler will bottling up all the ambient gas of a coding vibe session for eternity, so that somebody or some AI can totally sniff the vibe later.***
+***Serving the Butler who serves us is all about understanding the Butler Vibe!***
+
+*That principle drives [the architectural vision of the GitFartler project](https://fartslive.github.io/intg/chapter_1.html).
+
+Never mind commit msg discipline or human biases implicit in making sure that commit message are correctly formed ... part of the gas PAAS, involves an AI fart butler will bottling up all the ambient gas of a coding vibe session for eternity, so that somebody or some AI can totally sniff the vibe later ... but the main thing is understanding the Butler vibe in order to build better Butlers. 
+
+**This is not about code and trad code dev, it's about ALL AI-assisted creative development done by humans, arts, science, comedy/literature ... everything begins as gaseous, ethereal vibe.**
+
 ### Table of Contents
 
 ##### With a complete how-to for we plan to *fartle* our way there.

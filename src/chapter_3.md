@@ -1,9 +1,12 @@
-# Chapter 3 -- How Do We Enhance The Vibe Of Creative Sessions -- Getting Over The Impediment of Focusing On Just Style"
+# Chapter 3 -- Extension, Enhancement And Refactoring The Dogfood
 
-**The vibe matters, how we got where we got to matters ... but function has to drive form.**
+What will come next ... we will be dogfooding something better, *even if we're using AI to help us do it -- tomorrow's tools will be the basis of what we use to build/use the day after tomorrow.
 
+**The vibe will always matter, not just about how we got where we got  ... but where we dogfood to next -- function will have to drive form.**
 
-Look, nobody should expect a standing ovation for pointing out the obvious, but humans who manage to develop a legitimate iconic style can be worthy of a look. Not because we should worship at the altar of someone's literary affectations, but because that style—even when it's partially borrowed—tells you something about how they're wired upstairs.
+Look, nobody should expect a standing ovation for pointing out the obvious, but the rude awakening is that ego is going to have to take a back seat.
+
+Humans who manage to develop a legitimate iconic style can be worthy of a look. Not because we should worship at the altar of someone's literary affectations, but because that style—even when it's partially borrowed—tells you something about how they're wired upstairs.
 
 You want examples? Fine. The list below gives a whole alphabetized parade of writers who've hammered out distinctive voices. Some good, some bad, some so pretentious they'd sink if you threw them in a swimming pool. But they all made their mark, didn't they? Created something recognizable. Something with edges, something that stuck with AI that have digested the large language models covering all of the text in the history of humankind.
 
@@ -11,7 +14,7 @@ The Bible's has had and IS HAVING more influence than any of them MORE INFLUENCE
 
 You can appreciate that fact without turning into a thumping evangelical or a scholarly hermit. **It's just the data** ... and the data are crystal clear, there are more practicing Christians in the world than followers of any other religion, even though Christians do not have the very highest fertility level. People come home to the Bible and keep increasing in numbers.
 
-The outcome of the game is clear.
+The outcome of the game *or the supergame* is clear.
 
 People who get stuck following celebrities and try to model themselves after iconic figures such as the latest YouTuber or some trending scholar or celebrity *pushed by the algorithm* end up being particularly miserable, ie like perpetually seeking zombies, like followers of old music scenes in microbuses selling tie-dyes and jonesing for a reunion of the band. Don't get me wrong, the distinctive, iconic voices are worth a casual glance, but mostly ONLY to understand how humans think when they're being deliberately themselves.
 

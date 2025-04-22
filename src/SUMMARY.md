@@ -1,9 +1,9 @@
 # Summary
 
-[Introduction](README.md)
+[Manifesto](README.md)
 
-- [Chapter 1](./chapter_1.md)
-- [Chapter 2](./chapter_2.md)
-    - [Sub-chapter 2.1](nested/sub-chapter_2.1.md)
-- [Chapter 3](./chapter_3.md)
-- [Chapter 4](./chapter_4.md)
+- [The Butler Vibe](./chapter_1.md)
+- [50-Day Plan](./chapter_2.md)
+    - [Communities](nested/sub-chapter_2.1.md)
+- [Extension](./chapter_3.md)
+- [Evangelization](./chapter_4.md)
