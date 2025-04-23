@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>The Butler Vibe - Building A Rust Based Intelligence Gathering System</title>
+        <title>Intelligence Gathering - Building A Rust Based Intelligence Gathering System</title>
 
 
         <!-- Custom HTML head -->
@@ -155,14 +155,18 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="chapter-1----the-vibe-drives-how-we-build-use-extend-paas-intelligence-gathering-systems"><a class="header" href="#chapter-1----the-vibe-drives-how-we-build-use-extend-paas-intelligence-gathering-systems">Chapter 1 -- The Vibe Drives How We Build, Use, Extend PAAS Intelligence Gathering Systems"</a></h1>
-<p><em>How do we dogfood our own implementation of</em> <em><strong>fly-on-the-wall</strong></em> <em>observability engineering to give the data upon which our AI</em> <em><strong>butlers</strong></em> <em>bases its ability to serve us better?</em></p>
-<p>We need to build systems FOR collecting data that AI will use so that AI can, in turn, better serve us.</p>
-<p>We have to expect more from our Butlers and that means doing more to serve more data in the direction of our AI-assisted butlers ... <em><strong>serving the Butler who serves us is all about understanding the Butler Vibe!</strong></em></p>
-<h2 id="intelligence-gathering-observability-engineering-ai-enhanced-dvcs-based-annotification-systems--and-hopefully-simplified-title-some-day"><a class="header" href="#intelligence-gathering-observability-engineering-ai-enhanced-dvcs-based-annotification-systems--and-hopefully-simplified-title-some-day">Intelligence Gathering, Observability Engineering, AI-Enhanced DVCS-based Annotification Systems <em>... and hopefully simplified title some day</em></a></h2>
-<h3 id="table-of-contents"><a class="header" href="#table-of-contents">Table of Contents</a></h3>
+                        <h1 id="chapter-1"><a class="header" href="#chapter-1">Chapter 1</a></h1>
+<h3 id="introduction"><a class="header" href="#introduction">Introduction</a></h3>
+<p>The next generation of developer tools stands at a crucial inflection point. While artificial intelligence has made significant inroads into development environments, most implementations remain disruptive, forcing developers into rigid interaction patterns or interrupting their flow with ill-timed suggestions. This backgrounder proposes a fundamentally different approach: systems that embody what we call "the butler vibe"—an invisible, anticipatory presence that learns organically from developer interactions without imposing structure or requiring explicit input.</p>
+<p>Building upon GitButler's innovative virtual branch system, we envision a development environment that seamlessly captures the rich tapestry of developer activities—from code edits and emoji reactions to issue discussions and workflow patterns—without disrupting the creative process. Through unobtrusive observability engineering, these systems can build comprehensive contextual understanding that enables increasingly sophisticated AI assistance while maintaining the developer's flow state.</p>
+<p>This document explores both the philosophical foundations of the butler vibe and the technical architecture required to implement such systems. It presents a framework for ambient intelligence that emerges naturally from the "diffs of the small things," much as Zen wisdom emerges from mindful attention to everyday tasks.</p>
+<h4 id="the-servant-vibe-or-the-butler-vibe-drives-how-we-build-use-extend-paas-intelligence-gathering-systems"><a class="header" href="#the-servant-vibe-or-the-butler-vibe-drives-how-we-build-use-extend-paas-intelligence-gathering-systems">The Servant Vibe or the Butler Vibe Drives How We Build, Use, Extend PAAS Intelligence Gathering Systems"</a></h4>
+<p>We have to expect more from our AI servants and that means being much more savvy about how AI serves and how to wrangle and annotate data to better direct our AI-assisted butlers. Serving the AI-assistant Butler who serves us is all about understanding the best of the best practics of the best of the best butlers. <em><strong>That is what the Butler Vibe is about.</strong></em></p>
+<p><strong>AI must serve humans.</strong> But it is not going to have chance of doing that, ie it's being built to serve a very specific, very small subset of humans. If we want AI to serve <em>US</em>, the <em>we</em> are going need to take greater responsibility for building the systems that collect/wrangle data that AI will use so that AI can, in turn, actually <em><strong>serve</strong></em> all humans in their intelligence gathering capability.</p>
+<p>To put it another way ... if you think you can <em>served</em> by someone else's AI servant, then you are like the pig in the finishing barn who thinks that the guy who takes care of your feed, water, facilities is <em>serving</em> you, but as a feed-consuming pig, you are not being served, you are being taken care of by a servant who works for the operation that <em>delivers</em> <em><strong>the bacon</strong></em> and as long as you are <em>served</em> in this fashion, by not taking charge, you are on your way to being the product.</p>
+<p><strong>AI must serve humans,</strong> but unless you control the servant, you are not being served -- you are being <em>developed</em> into the product.</p>
+<h2 id="summary-of-other-content-in-this-chapter"><a class="header" href="#summary-of-other-content-in-this-chapter">Summary Of Other Content In this Chapter</a></h2>
 <ul>
-<li><a href="#introduction">Introduction</a></li>
 <li><a href="#the-butler-vibe-philosophical-foundations">The Butler Vibe: Philosophical Foundations</a>
 <ul>
 <li><a href="#western-butler-traditions">Western Butler Traditions</a></li>
@@ -243,10 +247,6 @@
 <li><a href="#future-directions">Future Directions</a></li>
 <li><a href="#conclusion">Conclusion</a></li>
 </ul>
-<h3 id="introduction"><a class="header" href="#introduction">Introduction</a></h3>
-<p>The next generation of developer tools stands at a crucial inflection point. While artificial intelligence has made significant inroads into development environments, most implementations remain disruptive, forcing developers into rigid interaction patterns or interrupting their flow with ill-timed suggestions. This backgrounder proposes a fundamentally different approach: systems that embody what we call "the butler vibe"—an invisible, anticipatory presence that learns organically from developer interactions without imposing structure or requiring explicit input.</p>
-<p>Building upon GitButler's innovative virtual branch system, we envision a development environment that seamlessly captures the rich tapestry of developer activities—from code edits and emoji reactions to issue discussions and workflow patterns—without disrupting the creative process. Through unobtrusive observability engineering, these systems can build comprehensive contextual understanding that enables increasingly sophisticated AI assistance while maintaining the developer's flow state.</p>
-<p>This document explores both the philosophical foundations of the butler vibe and the technical architecture required to implement such systems. It presents a framework for ambient intelligence that emerges naturally from the "diffs of the small things," much as Zen wisdom emerges from mindful attention to everyday tasks.</p>
 <h3 id="the-butler-vibe-philosophical-foundations"><a class="header" href="#the-butler-vibe-philosophical-foundations">The Butler Vibe: Philosophical Foundations</a></h3>
 <p>The "butler vibe" represents a philosophical approach to service that transcends specific roles or cultures, appearing in various forms across human history. At its core, it embodies anticipatory, unobtrusive support that creates an environment where excellence can flourish—whether in leadership, creative endeavors, or intellectual pursuits.</p>
 <h3 id="western-butler-traditions"><a class="header" href="#western-butler-traditions">Western Butler Traditions</a></h3>
@@ -1900,11 +1900,11 @@
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                            <a rel="prev" href="index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="Manifesto.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
-                            <a rel="next prefetch" href="chapter_2.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next prefetch" href="nested/sub-chapter_1.1.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
 
@@ -1914,11 +1914,11 @@
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                    <a rel="prev" href="index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="Manifesto.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
 
-                    <a rel="next prefetch" href="chapter_2.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next prefetch" href="nested/sub-chapter_1.1.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
             </nav>
