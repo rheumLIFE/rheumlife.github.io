@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Day 1-2 - Building A Rust Based Intelligence Gathering System</title>
+        <title>Day 38-40 - Building A Rust Based Intelligence Gathering System</title>
 
 
         <!-- Custom HTML head -->
@@ -156,24 +156,24 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="chapter-2----the-50-day-plan-for-building-a-personal-assistant-agentic-system-paas"><a class="header" href="#chapter-2----the-50-day-plan-for-building-a-personal-assistant-agentic-system-paas">Chapter 2 -- The 50-Day Plan For Building A Personal Assistant Agentic System (PAAS)</a></h1>
-<h2 id="phase-1-foundations-days-1-10"><a class="header" href="#phase-1-foundations-days-1-10">PHASE 1: FOUNDATIONS (Days 1-10)</a></h2>
-<h3 id="day-1-2-understanding-agentic-systems--large-language-models"><a class="header" href="#day-1-2-understanding-agentic-systems--large-language-models">Day 1-2: Understanding Agentic Systems &amp; Large Language Models</a></h3>
-<p>During these first two days, you'll focus on building a comprehensive understanding of what makes agentic systems work, with particular emphasis on how LLMs can be used as their foundation. You'll explore how modern LLMs function, what capabilities they offer for creating autonomous agents, and what architectural patterns have proven most effective in research. You'll identify the key limitations you'll need to account for in your system design, such as context window constraints and hallucination tendencies. You'll study how to prompt LLMs effectively to get them to reason through complex tasks step-by-step. Finally, you'll explore how these concepts apply specifically to building intelligence gathering systems that can monitor and synthesize information from multiple sources.</p>
+<h2 id="phase-3-advanced-agent-capabilities-days-26-40"><a class="header" href="#phase-3-advanced-agent-capabilities-days-26-40">PHASE 3: ADVANCED AGENT CAPABILITIES (Days 26-40)</a></h2>
+<h3 id="day-38-40-user-preference-learning"><a class="header" href="#day-38-40-user-preference-learning">Day 38-40: User Preference Learning</a></h3>
+<p>These final days of Phase 3 focus on creating systems that learn and adapt to your preferences over time, making your PAAS increasingly personalized and valuable. You'll explore techniques for capturing explicit and implicit feedback about what information is most useful to you. You'll develop user modeling approaches that can predict your interests and information needs. You'll build recommendation systems that prioritize the most relevant content based on your past behavior and stated preferences. Throughout, you'll implement these capabilities using Rust for efficient processing and strong privacy guarantees, ensuring your preference data remains secure.</p>
 <ul>
 <li>
-<p><strong>Morning (3h)</strong>: Study the fundamentals of agentic systems</p>
+<p><strong>Morning (3h)</strong>: Study preference learning techniques with Rust implementation</p>
 <ul>
-<li>LLM capabilities and limitations: Examine the core capabilities of LLMs like Claude and GPT-4, focusing on their reasoning abilities, knowledge limitations, and how context windows constrain what they can process at once. Study techniques like prompt engineering, chain-of-thought prompting, and retrieval augmentation that help overcome these limitations.</li>
-<li>Agent architecture patterns (ReAct, Plan-and-Execute, Self-critique): Learn the standard patterns for building LLM-based agents, understanding how ReAct combines reasoning and action in a loop, how Plan-and-Execute separates planning from execution, and how self-critique mechanisms allow agents to improve their outputs. Focus on identifying which patterns will work best for continuous intelligence gathering and summarization tasks.</li>
-<li>Key papers: Chain-of-Thought, Tree of Thoughts, ReAct: Read these foundational papers to understand the research behind modern agent approaches, taking detailed notes on their methodologies and results. Implement simple examples of each approach using Python and an LLM API to solidify your understanding of how they work in practice.</li>
+<li>Explicit vs. implicit feedback: Learn different approaches for gathering user preferences, from direct ratings and feedback to implicit signals like reading time and click patterns. Implement efficient event tracking in Rust that can capture user interactions with minimal overhead, using type-safe event definitions to ensure consistent data collection.</li>
+<li>User modeling approaches with Rust safety: Explore methods for building user interest profiles, including content-based, collaborative filtering, and hybrid approaches that combine multiple signals. Develop user modeling components in Rust that provide strong privacy guarantees through encryption and local processing, using Rust's memory safety to prevent data leaks.</li>
+<li>Recommendation systems with Rust performance: Study recommendation algorithms that can identify relevant content based on user profiles, including matrix factorization, neural approaches, and contextual bandits for exploration. Implement core recommendation algorithms in Rust for performance, creating hybrid systems that combine offline processing with real-time adaptation to user behavior.</li>
 </ul>
 </li>
 <li>
-<p><strong>Afternoon (3h)</strong>: Set up development environment</p>
+<p><strong>Afternoon (3h)</strong>: Implement preference system with Tauri</p>
 <ul>
-<li>Install necessary Python libraries (transformers, langchain, etc.): Set up a Python virtual environment and install the essential packages like LangChain, transformers, and relevant API clients you'll need throughout the project. Configure your API keys for LLM services you plan to use, ensuring your credentials are stored securely.</li>
-<li>Set up cloud resources if needed: Determine whether you'll need cloud computing resources for more intensive tasks, considering options like AWS, GCP, or Azure for hosting your system. Create accounts, set up basic infrastructure, and ensure you can programmatically access any cloud services you'll require.</li>
-<li>Create project structure and repository: Establish a well-organized GitHub repository with a clear structure for your codebase, including directories for each major component. Create a comprehensive README that outlines the project goals, setup instructions, and development roadmap.</li>
+<li>Build user feedback collection: Create interfaces for gathering explicit feedback on summaries, articles, and recommendations, with Svelte components for rating, commenting, and saving items of interest. Implement a feedback processing pipeline in Rust that securely stores user preferences locally within the Tauri application, maintaining privacy while enabling personalization.</li>
+<li>Create content relevance scoring: Develop algorithms that rank incoming information based on predicted relevance to your interests, considering both explicit preferences and implicit behavioral patterns. Implement efficient scoring functions in Rust that can rapidly evaluate thousands of items, using parallel processing to maintain responsiveness even with large information volumes.</li>
+<li>Implement adaptive filtering with Rust: Build systems that automatically adjust filtering criteria based on your feedback and changing interests, balancing exploration of new topics with exploitation of known preferences. Create a Rust-based reinforcement learning system that continuously optimizes information filtering parameters, using Bayesian methods to handle uncertainty about preferences while maintaining explainability.</li>
 </ul>
 </li>
 </ul>
@@ -182,11 +182,11 @@
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                            <a rel="prev" href="../chapter_2.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="../nested/sub-chapter_2.15.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
-                            <a rel="next prefetch" href="../nested/sub-chapter_2.2.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next prefetch" href="../nested/sub-chapter_2.17.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
 
@@ -196,11 +196,11 @@
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                    <a rel="prev" href="../chapter_2.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="../nested/sub-chapter_2.15.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
 
-                    <a rel="next prefetch" href="../nested/sub-chapter_2.2.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next prefetch" href="../nested/sub-chapter_2.17.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
             </nav>
