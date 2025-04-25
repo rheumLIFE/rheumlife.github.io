@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Milestones - Building A Rust Based Intelligence Gathering System</title>
+        <title>Milestones - Intelligence Gathering</title>
 
 
         <!-- Custom HTML head -->
@@ -123,7 +123,7 @@
                         </button>
                     </div>
 
-                    <h1 class="menu-title">Building A Rust Based Intelligence Gathering System</h1>
+                    <h1 class="menu-title">Intelligence Gathering</h1>
 
                     <div class="right-buttons">
                         <a href="../print.html" title="Print this book" aria-label="Print this book">
@@ -156,42 +156,36 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="chapter-2----the-50-day-plan-for-building-a-personal-assistant-agentic-system-paas"><a class="header" href="#chapter-2----the-50-day-plan-for-building-a-personal-assistant-agentic-system-paas">Chapter 2 -- The 50-Day Plan For Building A Personal Assistant Agentic System (PAAS)</a></h1>
-<h2 id="milestones"><a class="header" href="#milestones">Milestones</a></h2>
-<h3 id="milestone-1-complete-foundation-learning--rusttauri-environment-setup-end-of-week-1"><a class="header" href="#milestone-1-complete-foundation-learning--rusttauri-environment-setup-end-of-week-1">Milestone 1: Complete Foundation Learning &amp; Rust/Tauri Environment Setup (End of Week 1)</a></h3>
+<h2 id="milestones-of-the-four-phases-of-the-50-day-plan"><a class="header" href="#milestones-of-the-four-phases-of-the-50-day-plan">Milestones of the Four Phases of The 50-Day Plan</a></h2>
+<h3 id="phase-1-complete-foundation-learning--rusttauri-environment-setup-end-of-week-2"><a class="header" href="#phase-1-complete-foundation-learning--rusttauri-environment-setup-end-of-week-2">Phase 1: Complete Foundation Learning &amp; Rust/Tauri Environment Setup (End of Week 2)</a></h3>
 <p>By the end of your first week, you should have established a solid theoretical understanding of agentic systems and set up a complete development environment with Rust and Tauri integration. This milestone ensures you have both the conceptual framework and technical infrastructure to build your PAAS.</p>
 <p><strong>Key Competencies:</strong></p>
 <ol>
+<li><strong>Rust Development Environment</strong>: Based on your fork of the GitButler repository and your experimentation with your fork, you should have a fully configured Rust development environment with the necessary crates for web requests, parsing, and data processing, and be comfortable writing and testing basic Rust code.</li>
+<li><strong>Tauri Project Structure</strong>: You should have initialized a Tauri project with Svelte frontend, understanding the separation between the Rust backend and Svelte frontend, and be able to pass messages between them using Tauri's IPC bridge.</li>
 <li><strong>LLM Agent Fundamentals</strong>: You should understand the core architectures for LLM-based agents, including ReAct, Plan-and-Execute, and Chain-of-Thought approaches, and be able to explain how they would apply to intelligence gathering tasks.</li>
 <li><strong>API Integration Patterns</strong>: You should have mastered the fundamental patterns for interacting with external APIs, including authentication, rate limiting, and error handling strategies that will be applied across all your data source integrations.</li>
-<li><strong>Rust Development Environment</strong>: You should have a fully configured Rust development environment with the necessary crates for web requests, parsing, and data processing, and be comfortable writing and testing basic Rust code.</li>
-<li><strong>Tauri Project Structure</strong>: You should have initialized a Tauri project with Svelte frontend, understanding the separation between the Rust backend and Svelte frontend, and be able to pass messages between them using Tauri's IPC bridge.</li>
 <li><strong>Vector Database Concepts</strong>: You should understand how vector embeddings enable semantic search capabilities and have experience generating embeddings and performing similarity searches that will form the basis of your information retrieval system.</li>
-<li><strong>Multi-Agent Architecture Design</strong>: You should have designed the high-level architecture for your PAAS, defining component boundaries, data flows, and coordination mechanisms between specialized agents that will handle different aspects of intelligence gathering.</li>
 </ol>
-<h3 id="milestone-2-basic-api-integrations-with-rust-processing-pipelines-end-of-week-3"><a class="header" href="#milestone-2-basic-api-integrations-with-rust-processing-pipelines-end-of-week-3">Milestone 2: Basic API Integrations with Rust Processing Pipelines (End of Week 3)</a></h3>
-<p>By the end of your third week, you should have implemented functional integrations with several key data sources using Rust for efficient processing. This milestone ensures you can collect and process information from different sources, establishing the foundation for your intelligence gathering system.</p>
+<h3 id="phase-2-basic-api-integrations-and-rust-processing-pipelines-end-of-week-5"><a class="header" href="#phase-2-basic-api-integrations-and-rust-processing-pipelines-end-of-week-5">Phase 2: Basic API Integrations And Rust Processing Pipelines (End of Week 5)</a></h3>
+<p>By the end of your fifth week, you should have implemented functional integrations with several key data sources using Rust for efficient processing. This milestone ensures you can collect and process information from different sources, establishing the foundation for your intelligence gathering system. You will have implemented integrations with all target data sources and established comprehensive version tracking using Jujutsu. This milestone ensures you have access to all the information your PAAS needs to provide comprehensive intelligence.</p>
 <p><strong>Key Competencies:</strong></p>
 <ol>
+<li><strong>GitHub Monitoring</strong>: You should have created a GitHub integration that tracks repository activity, identifies trending projects, and analyzes code changes, with Rust components integrated into your fork of GitButler for efficient processing of large volumes of event data.</li>
+<li><strong>Jujutsu Version Control</strong>: You should begin using Jujutsu for managing your PAAS development, leveraging its advanced features for maintaining clean feature branches and collaborative workflows. Jujutsu, offers the same Git data model, but helps to establish the foundation of a disciplined development process using Jujutsu's advanced features, with clean feature branches, effective code review processes, and comprehensive version history.</li>
 <li><strong>arXiv Integration</strong>: You should have implemented a complete integration with arXiv that can efficiently retrieve and process research papers across different categories, extracting metadata and full-text content for further analysis.</li>
-<li><strong>GitHub Monitoring</strong>: You should have created a GitHub integration that tracks repository activity, identifies trending projects, and analyzes code changes, with Rust components for efficient processing of large volumes of event data.</li>
 <li><strong>HuggingFace Integration</strong>: You should have built monitoring components for the HuggingFace ecosystem that track new model releases, dataset publications, and community activity, identifying significant developments in open-source AI.</li>
-<li><strong>Rust-Based Data Processing</strong>: You should have implemented efficient data processing pipelines in Rust that can handle the specific formats and structures of each data source, with optimized memory usage and concurrent processing where appropriate.</li>
-<li><strong>Jujutsu Version Control</strong>: You should be using Jujutsu for managing your PAAS development, leveraging its advanced features for maintaining clean feature branches and collaborative workflows.</li>
-<li><strong>Common Data Model</strong>: You should have defined and implemented a unified data model that normalizes information across different sources, enabling integrated analysis and retrieval regardless of origin.</li>
-</ol>
-<h3 id="milestone-3-complete-all-data-source-integrations-with-jujutsu-version-tracking-end-of-week-5"><a class="header" href="#milestone-3-complete-all-data-source-integrations-with-jujutsu-version-tracking-end-of-week-5">Milestone 3: Complete All Data Source Integrations with Jujutsu Version Tracking (End of Week 5)</a></h3>
-<p>By the end of your fifth week, you should have implemented integrations with all target data sources and established comprehensive version tracking using Jujutsu. This milestone ensures you have access to all the information your PAAS needs to provide comprehensive intelligence.</p>
-<p><strong>Key Competencies:</strong></p>
-<ol>
 <li><strong>Patent Database Integration</strong>: You should have implemented a complete integration with patent databases that can monitor new filings related to AI and machine learning, extracting key information about claimed innovations and assignees.</li>
-<li><strong>Financial News Tracking</strong>: You should have created a system for monitoring startup funding, acquisitions, and other business developments in the AI sector, with analytics components that identify significant trends and emerging players.</li>
-<li><strong>Gmail Integration</strong>: You should have built a robust integration with Gmail that can send personalized outreach emails, process responses, and maintain ongoing conversations with researchers, developers, and other key figures in the AI ecosystem.</li>
+<li><strong>Startup And Financial News Tracking</strong>: You should have created a system for monitoring startup funding, acquisitions, and other business developments in the AI sector, with analytics components that identify significant trends and emerging players.</li>
+<li><strong>Email Integration</strong>: You should have built a robust integration with Gmail that can send personalized outreach emails, process responses, and maintain ongoing conversations with researchers, developers, and other key figures in the AI ecosystem.</li>
+<li><strong>Common Data Model</strong>: You will have enough experience with different API that you will have the understanding necessary to begin defining your unified data model that you will continue to build upon, refine and implement to normalize information across different sources, enabling integrated analysis and retrieval regardless of origin.</li>
+<li><strong>Rust-Based Data Processing</strong>: By this point will have encountered, experimented with and maybe even began to implement efficient data processing pipelines in your Rust/Tauri/Svelte client [forked from GitButler] that can handle the specific formats and structures of each data source, with optimized memory usage and concurrent processing where appropriate.</li>
+<li><strong>Multi-Agent Architecture Design</strong>: You should have designed the high-level architecture for your PAAS, defining component boundaries, data flows, and coordination mechanisms between specialized agents that will handle different aspects of intelligence gathering.</li>
 <li><strong>Cross-Source Entity Resolution</strong>: You should have implemented entity resolution systems that can identify the same people, organizations, and technologies across different data sources, creating a unified view of the AI landscape.</li>
-<li><strong>Jujutsu-Based Collaborative Workflow</strong>: You should have established a disciplined development process using Jujutsu's advanced features, with clean feature branches, effective code review processes, and comprehensive version history.</li>
 <li><strong>Data Validation and Quality Control</strong>: You should have implemented validation systems for each data source that ensure the consistency and reliability of collected information, with error detection and recovery mechanisms for handling problematic data.</li>
 </ol>
-<h3 id="milestone-4-rust-based-agent-orchestration-and-summarization-end-of-week-6"><a class="header" href="#milestone-4-rust-based-agent-orchestration-and-summarization-end-of-week-6">Milestone 4: Rust-Based Agent Orchestration and Summarization (End of Week 6)</a></h3>
-<p>By the end of your sixth week, you should have implemented the core agentic capabilities of your system, including orchestration, summarization, and interoperability with other AI systems. This milestone ensures your PAAS can process and make sense of the vast information it collects.</p>
+<h3 id="phase-3-advanced-agentic-capabilities-through-rust-orchestration-end-of-week-8"><a class="header" href="#phase-3-advanced-agentic-capabilities-through-rust-orchestration-end-of-week-8">Phase 3: Advanced Agentic Capabilities Through Rust Orchestration (End of Week 8)</a></h3>
+<p>As we see above, by the end of your fifth week, you will have something to build upon. From week six on, you will build upon the core agentic capabilities of your system and add advanced agentic capabilities, including orchestration, summarization, and interoperability with other more complex AI systems. The milestones of this third phase will ensures your PAAS can process, sift, sort, prioritize and make sense of the especially vast amounts of information that it is connected to from a variety of different sources. It might yet be polished or reliable at the end of week 8, but you will have something that is close enough to working well, that you can enter the homestretch refining your PAAS.</p>
 <p><strong>Key Competencies:</strong></p>
 <ol>
 <li><strong>Anthropic MCP Integration</strong>: You should have built a complete integration with Anthropic's MCP that enables sophisticated interactions with Claude and other Anthropic models, leveraging their capabilities for information analysis and summarization.</li>
@@ -201,8 +195,8 @@
 <li><strong>User Preference Learning</strong>: You should have built systems that can learn and adapt to your preferences over time, prioritizing the most relevant information based on your feedback and behavior patterns.</li>
 <li><strong>Type-Safe Agent Communication</strong>: You should have established type-safe communication protocols between different agent components, leveraging Rust's strong type system to prevent errors in message passing and task definition.</li>
 </ol>
-<h3 id="milestone-5-complete-end-to-end-system-functionality-with-taurisvelte-ui-end-of-week-7"><a class="header" href="#milestone-5-complete-end-to-end-system-functionality-with-taurisvelte-ui-end-of-week-7">Milestone 5: Complete End-to-End System Functionality with Tauri/Svelte UI (End of Week 7)</a></h3>
-<p>By the end of your seventh week, you should have a fully functional PAAS with an intuitive Tauri/Svelte user interface, robust data storage, and comprehensive testing. This milestone represents the completion of your basic system, ready for ongoing refinement and extension.</p>
+<h3 id="phase-4-polishing-end-to-end-system-functionality-with-taurisvelte-ui-end-of-week-10"><a class="header" href="#phase-4-polishing-end-to-end-system-functionality-with-taurisvelte-ui-end-of-week-10">Phase 4: Polishing End-to-End System Functionality with Tauri/Svelte UI (End of Week 10)</a></h3>
+<p>In this last phase, you will be polishing and improving the reliability what was basically a functional PAAS, but still had issues, bugs or components that needed overhaul. In the last phase, you will be refining of what were some solid beginnings of an intuitive Tauri/Svelte user interface. In this final phase, you will look at different ways to improve upon the robustness of data storage and to improve the efficacy of your comprehensive monitoring and testing. This milestone represents the completion of your basic system, which might still not be perfect, but it should be pretty much ready for use and certainly ready for future ongoing refinement and continued extensions and simplifications.</p>
 <p><strong>Key Competencies:</strong></p>
 <ol>
 <li><strong>Rust-Based Data Persistence</strong>: You should have implemented efficient data storage and retrieval systems in Rust, with optimized vector search, intelligent caching, and data integrity safeguards that ensure reliable operation.</li>

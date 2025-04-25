@@ -1,11 +1,36 @@
-# STRATEGIC BLUEPRINT FOR DIGITAL INFORMATION AUTONOMY
+*This Guide will aspire to follow the approach of Maimonides [Guide For The Perplexed](https://www.gutenberg.org/cache/epub/73584/pg73584.txt) which still serves as a model for systematically examining relationship between hard, cold, established reason and contemplation of concepts that have taken on a* ***practically magical*** *or ethereal quality, seemingly almost beyond current understanding OR something to be revealed in a future humans can barely imagine.*
 
-It is an absolutely fabulous time for high agency people to be alive and for [becoming a higher agency person](https://x.com/i/grok/share/izQxmDXeoQI8Gk6mUj7SzIY31), by taking greater responsibility for intelligence gathering and personal knowledge engineering and autodidactic skills development. 
-#### High agency people are reclaiming digital agency in intelligence gathering
+*Of course, this Guide is not going to cover* ***perplexing*** *troubling topics that Maimonides wrote about such as divine attributes, creation, prophecy, and the purpose of biblical commandments. Those topics are still worth exploring. Elsewhere. However, this Guide does deal with the topic of high agency in humans and achieving higher forms of agency.*
 
-*Low agency people do not want to be bothered with the tasks of leveling up skills and staying in charge of their destiny.* Low agency people just want someone to conveniently deliver their comfort foods and the entertainment they consume.
+*Human achievement in our current and foreseeable existences will continue to be a matter of perfecting of one's intellectual capacities. This matter of constantly* ***perfecting*** *but never being perfect or* ***"ahead of the curve"***, *is not achieved through believing the hype or imagining that new techological developments are either EVIL or somehow magically beyond what a human can understand. Instead, technology is very much understandable, but it requires thorough, rigorous, skeptical inquiry along with participation and engagement in development communities based upon practical experience gained through hands-on technological skills development.*
 
-High agency people know better -- they understand why, especially in a digital age that ALL of the news and ALL of what consume and forward on social media, ALL search engine results and ALL AI chat response, whether they are tracked or not (ie even if they think they can browse annonymously), ALL of the convenient advertisement or product recommendation feeds they happen to see, ALL of the content conveniently suggested for them on YouTube or other purveyors ... **ALL OF IT** is being fed  to them [and the consumption tracked] to tell producers what to produce and what general demographic buys it.  
+#### WHY Must One Take Responsibility For One's Own Intelligence Gathering?
+
+### It's About Regaining Information Autonomy.
+
+It is an absolutely fabulous time for high agency people to be alive.
+
+There's no time like the present for starting on the process of [becoming an even higher agency person](https://x.com/i/grok/share/izQxmDXeoQI8Gk6mUj7SzIY31).
+
+Taking greater responsibility for intelligence gathering and personal knowledge engineering necessarily involves autodidactic skills development and *continuously* re-learning how to learn.
+
+#### READERS are leaders. Leaders are better at READING.
+
+That means that leaders are better at mastering everything that READING a situation, a book, a person, a trend or anything that the word "reading" might pertain to.
+
+Today's ***reading*** is a radically expanded version of yesterday's *reading*. This year is a whole different ballgame than last year was; five years ago is becoming unrecognizable and whatever happened ten years ago now looks pretty old and dated. *Reading is WAY different than what you learned in school.*
+
+***Reading*** now includes using and developing AI tools and LLM models to ingest and make sense of unimaginally massive amounts of text and other data. But reading still includes speedreading and skimming pages of content in seconds. It ALSO still includes DEEPLY focused reading and meditation on what was read. Whether it's AI-assisted OR developed skills in speedreading OR more intense, meditative deep reading, it's ALL *reading* -- it's a matter of time management and adapting the appropriate skill for the optimal way to *read* EVERYTHING.
+
+What information technology has done is that it have given us the capability to have *read* almost everything.
+
+AI represents the opportunity to make amazing technological leap forward, but not all people will be able to rewire their brains sufficiently to even contemplate making that leap. **Some will**. High agency people are reclaiming digital agency in intelligence gathering, partially through proficiency in AI-assisted ***reading*** technologies ... *"proficiency"* means understanding the technologies well enough to understand which ones are worth using and which are still gaseous vaporware.
+
+Conversely, low agency people will settle for the easy approach and just be satisfied what is dished up, because *low agency people are spectators.* ***Low agency people do not want to be bothered with the tasks of leveling up skills and staying in charge of their destiny.***
+
+Low agency people just want someone to conveniently deliver their comfort foods and the entertainment they consume. High agency people know better.
+
+High agency people understand why, especially in a digital age that ALL of the news and ALL of what consume and forward on social media, ALL search engine results and ALL AI chat response, whether they are tracked or not (ie even if they think they can browse annonymously), ALL of the convenient advertisement or product recommendation feeds they happen to see, ALL of the content conveniently suggested for them on YouTube or other purveyors ... **ALL OF IT** is being fed  to them [and the consumption tracked] to tell producers what to produce and what general demographic buys it.  
 
 **High agency people understand WHY they must take greater control of their information consumption and intelligence gathering.**
 
@@ -15,11 +40,11 @@ This is why Personal Assistant Agentic Systems (PAAS) represent both ***risk*** 
 
 1. When controlled by private interests, they further concentrate information power, worth trillions in market value and social influence. These entities will fiercely protect their capacity to determine what information reaches consumers.
 
-2. When developed as open-source infrastructure, PAAS can redistribute digital agency back to individuals and communities, but not unless the actually are strategically savvy about intelligence gathering.
+2. When developed as personally-extensible, open-source infrastructures, PAAS *could* redistribute digital agency back to individuals and communities, but that is not automatic and is not even possible except for self-starting autodidacts who invest in their skills to actually become strategically savvy about intelligence gathering.
 
 ## CONCRETE DEVELOPMENT PRIORITIES
 
-1. **Personal Data Vaults**: Create secure, user-controlled repositories where individuals own their interaction data
+1. **Personal Data Vaults**: Create secure, user-controlled repositories for individuals to own information
 2. **Federated Learning Systems**: Develop models that learn collectively while keeping data localized
 3. **Algorithmic Transparency Tools**: Build interfaces revealing recommendation systems' decision criteria
 4. **Cross-Platform Portability**: Ensure users can migrate their digital assistants across services
@@ -30,16 +55,17 @@ The existing digital hierarchy treats humans as extractable resources—sources 
 This is not utopian speculation but practical engineering work that has already begun in research labs and open-source communities worldwide. Join us in building digital tools that expand human capability without compromising human autonomy.
 ## ACTION STEPS FOR IMPLEMENTATION
 
-1. Create community-maintained repositories of open PAAS algorithms with transparent documentation
-2. Develop decentralized data storage solutions that users genuinely control
-3. Build education programs teaching digital literacy focused on understanding agentic systems
-4. Establish open protocols for PAAS interoperability
-5. Form developer cooperatives committed to user-centered agentic assistants
+1. Create community-maintained repositories of open PAAS development programs for self-starting autodidacts; these repositories must be accessible to all levels of autodidactic learning and thus use transparent, human-readable and AI-navigable MarkDown documentation/code
 
+2. Use entire ecosystems of Big Compute resources; devote more time/energy/$ becoming more savvy about the range of options available in these competitive ecosystems. In other words, spend less time in gear-acquistion mode purchasing and maintaining personally-owned hardware. Develop ecosystems of decentralized data storage approaches which build upon Git, Jujutsu and data-compatible DVCS system which give users control and are not centrally controlled, censored, manipulated, constrained hubs of sanitized content
 
+3. Build autodidactic learning resources to build literacy in personal agentic AI systems. The reason for autodidacticism is that humans learn best by teaching and teach best by learning. We need to READ and ***read even more critically***, but given the technology available, we no longer need to put any priority on memorization in education. **We annotate content, so that our future selves can be taught by our current selves who let go of their attachment to memory.**
+
+4. Engage in developer communities that are committed to user-centered agentic assistants and actively encourage information autonomy. Understand the active, visionary vibe of these communities in order to advance the cause of information autonomy RATHER than understanding the passive, spectator vibe of politics, sports, celebrities or propagandized newsholes.
+
+5. Work at being a better, actively engaged citizen of the digital age; decentralize leadership; encourage high-agency mindsets and high-agency cultures of independent thinkers. Attempt to better understand systems and failure points, then establish, build upon, strategize, refactor and generally always be improving more open, simpler, less failure-prone protocols for PAAS interoperability
 
 ## STRATEGY FOR ACHIEVING THE IMPLEMENTATION
-
 ##### With a complete how-to for we plan to dogfood intelligence gathering methods into a PAAS intelligence gathering framework.
 
 - [PRELUDE: THE GASEOUS NATURE OF HUMAN CREATIVE PROCESSES](#prelude-the-gaseous-nature-of-creative-process)

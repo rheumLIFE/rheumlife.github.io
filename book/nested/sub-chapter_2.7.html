@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Day 13-14 - Building A Rust Based Intelligence Gathering System</title>
+        <title>Day 13-14 arXiv API - Intelligence Gathering</title>
 
 
         <!-- Custom HTML head -->
@@ -123,7 +123,7 @@
                         </button>
                     </div>
 
-                    <h1 class="menu-title">Building A Rust Based Intelligence Gathering System</h1>
+                    <h1 class="menu-title">Intelligence Gathering</h1>
 
                     <div class="right-buttons">
                         <a href="../print.html" title="Print this book" aria-label="Print this book">
@@ -158,23 +158,23 @@
                         <h1 id="chapter-2----the-50-day-plan-for-building-a-personal-assistant-agentic-system-paas"><a class="header" href="#chapter-2----the-50-day-plan-for-building-a-personal-assistant-agentic-system-paas">Chapter 2 -- The 50-Day Plan For Building A Personal Assistant Agentic System (PAAS)</a></h1>
 <h2 id="phase-2-api-integrations-days-11-25"><a class="header" href="#phase-2-api-integrations-days-11-25">PHASE 2: API INTEGRATIONS (Days 11-25)</a></h2>
 <p>In this phase, you'll build the data collection foundation of your PAAS by implementing integrations with all your target information sources. Each integration will follow a similar pattern: first understanding the API and data structure, then implementing core functionality, and finally optimizing and extending the integration. You'll apply the foundational patterns established in Phase 1 while adapting to the unique characteristics of each source. By the end of this phase, your system will be able to collect data from all major research, code, patent, and financial news sources.</p>
-<h3 id="day-13-14-github-integration--jujutsu-basics"><a class="header" href="#day-13-14-github-integration--jujutsu-basics">Day 13-14: GitHub Integration &amp; Jujutsu Basics</a></h3>
-<p>These two days will focus on developing a comprehensive GitHub integration to monitor the open-source code ecosystem, while also learning Jujutsu as a modern distributed version control system to track your own development. You'll create systems to track trending repositories, popular developers, and emerging projects in the AI and machine learning space. You'll learn how Jujutsu's advanced branching and history editing capabilities can improve your development workflow compared to traditional Git. You'll build analysis components to identify meaningful signals within the vast amount of GitHub activity, separating significant developments from routine updates. You'll also develop methods to link GitHub projects with related research papers and other external resources.</p>
+<h3 id="day-14-15-arxiv-integration"><a class="header" href="#day-14-15-arxiv-integration">Day 14-15: arXiv Integration</a></h3>
+<p>During these two days, you'll focus on creating a robust integration with arXiv, one of the primary sources of research papers in AI, ML, and other technical fields. You'll develop a comprehensive understanding of arXiv's API capabilities and limitations, learning how to efficiently retrieve and process papers across different categories. You'll build systems to extract key information from papers including abstracts, authors, and citations. You'll also implement approaches for processing the full PDF content of papers to enable deeper analysis and understanding of research trends.</p>
 <ul>
 <li>
-<p><strong>Morning (3h)</strong>: Learn GitHub API and Jujutsu fundamentals</p>
+<p><strong>Morning (3h)</strong>: Study arXiv API and data structure</p>
 <ul>
-<li>Repository events and Jujutsu introduction: Master GitHub's Events API to monitor activities like pushes, pull requests, and releases across repositories of interest while learning the fundamentals of Jujutsu as a modern alternative to Git. Compare Jujutsu's approach to branching, merging, and history editing with traditional Git workflows, understanding how Jujutsu's Rust implementation provides performance benefits for large repositories.</li>
-<li>Search capabilities: Explore GitHub's search API functionality to identify repositories based on topics, languages, and stars while studying how Jujutsu's advanced features like first-class conflicts and revsets can simplify complex development workflows. Learn how Jujutsu's approach to tracking changes can inspire your own system for monitoring repository evolution over time.</li>
-<li>Trending repositories analysis and Jujutsu for project management: Study methods for analyzing trending repositories while experimenting with Jujutsu for tracking your own PAAS development. Understand how Jujutsu's immutable history model and advanced branching can help you maintain clean feature branches while still allowing experimentation, providing a workflow that could be incorporated into your intelligence gathering system.</li>
+<li>API documentation: Thoroughly review the arXiv API documentation, focusing on endpoints for search, metadata retrieval, and category browsing that will enable systematic monitoring of new research. Understand rate limits, response formats, and sorting options that will affect your ability to efficiently monitor new papers.</li>
+<li>Paper metadata extraction: Study the metadata schema used by arXiv, identifying key fields like authors, categories, publication dates, and citation information that are critical for organizing and analyzing research papers. Create data models that will store this information in a standardized format in your system.</li>
+<li>PDF processing libraries: Research libraries like PyPDF2, pdfminer, and PyMuPDF that can extract text, figures, and tables from PDF papers, understanding their capabilities and limitations. Develop a strategy for efficiently processing PDFs to extract full text while preserving document structure and handling common OCR challenges in scientific papers.</li>
 </ul>
 </li>
 <li>
-<p><strong>Afternoon (3h)</strong>: Build GitHub monitoring system with Jujutsu integration</p>
+<p><strong>Afternoon (3h)</strong>: Implement arXiv paper retrieval</p>
 <ul>
-<li>Track repository stars and forks: Implement tracking systems that monitor stars, forks, and watchers for repositories of interest, detecting unusual growth patterns that might indicate important new developments. Structure your own project using Jujutsu for version control, creating a branching strategy that allows parallel development of different components.</li>
-<li>Monitor code commits and issues: Build components that analyze commit patterns and issue discussions to identify active development areas in key projects, using Rust for efficient processing of large volumes of GitHub data. Experiment with Jujutsu's advanced features for managing your own development branches, understanding how its design principles could be applied to analyzing repository histories in your monitoring system.</li>
-<li>Analyze trending repositories: Create analytics tools that can process repository metadata, README content, and code statistics to identify the purpose and significance of trending repositories. Implement a Rust-based component that can efficiently process large repository data while organizing your code using Jujutsu's workflow to maintain clean feature boundaries between different PAAS components.</li>
+<li>Query recent papers by categories: Build functions that can systematically query arXiv for recent papers across categories relevant to AI, machine learning, computational linguistics, and other fields of interest. Implement filters for timeframes, sorting by relevance or recency, and tracking which papers have already been processed.</li>
+<li>Extract metadata and abstracts: Create parsers that extract structured information from arXiv API responses, correctly handling author lists, affiliations, and category classifications. Implement text processing for abstracts to identify key topics, methodologies, and claimed contributions.</li>
+<li>Store paper information for processing: Develop storage mechanisms for paper metadata and content that support efficient retrieval, update tracking, and integration with your vector database. Create processes for updating information when papers are revised and for maintaining links between papers and their citations.</li>
 </ul>
 </li>
 </ul>

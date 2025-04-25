@@ -10,6 +10,9 @@
 		{
 			"name": "intg",
 			"path": "."
+		},
+		{
+			"path": "../guide-1"
 		}
 	],
 	"settings": {}
