@@ -16,7 +16,10 @@
 
 ### Rust
 
-[**Rust Package Mgmt and Cargo**](nested/sub-chapter_4.Cargo.md)
+#### Rust Package Mgmt
+
+* [**crates.io**](nested/sub-chapter_4.crates.md)
+* [**Cargo**](nested/sub-chapter_4.Cargo.md)
 
 [**Tauri**](nested/sub-chapter_4.Tauri.md)
 
