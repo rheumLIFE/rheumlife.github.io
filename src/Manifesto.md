@@ -1,74 +1,14 @@
-*This Guide will aspire to follow the approach of Maimonides [Guide For The Perplexed](https://www.gutenberg.org/cache/epub/73584/pg73584.txt) which still serves as a model for systematically examining relationship between hard, cold, established reason and contemplation of concepts that have taken on a* ***practically magical*** *or ethereal quality, seemingly almost beyond current understanding OR something to be revealed in a future humans can barely imagine.*
+## MORE Than Just Information Autonomy
 
-*Of course, this Guide is not going to cover* ***perplexing*** *troubling topics that Maimonides wrote about such as divine attributes, creation, prophecy, and the purpose of biblical commandments. Those topics are still worth exploring. Elsewhere. However, this Guide does deal with the topic of high agency in humans and achieving higher forms of agency.*
+The fundamental principle driving this project is that **creative flow is fundamentally about the turbulent chaos ideas and the re-wiring of our neuroplastic brains such that the turbulence makes perfect sense.**
 
-*Human achievement in our current and foreseeable existences will continue to be a matter of perfecting of one's intellectual capacities. This matter of constantly* ***perfecting*** *but never being perfect or* ***"ahead of the curve"***, *is not achieved through believing the hype or imagining that new techological developments are either EVIL or somehow magically beyond what a human can understand. Instead, technology is very much understandable, but it requires thorough, rigorous, skeptical inquiry along with participation and engagement in development communities based upon practical experience gained through hands-on technological skills development.*
+In the linear narratives we construct after discovery to explain what we have done, so that others can understand OR maybe so that we can understand ourselves, we lose the very essence of creation. 
 
-#### WHY Must One Take Responsibility For One's Own Intelligence Gathering?
+The scientific method, for example, with its sanitized, lowest-common-denominator explainable-to-the-masses method of hypothesis testing and methodical progression is basically fiction that we tell ourselves after the chaotic reality of breakthrough has occurred. The true nature of discovery is non-linear, improvisational, and contextually TURBULENT. It exists as an ambient gas that we currently allow to dissipate into the cosmic void, forever lost to future generations.
 
-### It's About Regaining Information Autonomy.
+## Outline of our strategy for this project
 
-It is an absolutely fabulous time for high agency people to be alive.
-
-There's no time like the present for starting on the process of [becoming an even higher agency person](https://x.com/i/grok/share/izQxmDXeoQI8Gk6mUj7SzIY31).
-
-Taking greater responsibility for intelligence gathering and personal knowledge engineering necessarily involves autodidactic skills development and *continuously* re-learning how to learn.
-
-#### READERS are leaders. Leaders are better at READING.
-
-That means that leaders are better at mastering everything that READING a situation, a book, a person, a trend or anything that the word "reading" might pertain to.
-
-Today's ***reading*** is a radically expanded version of yesterday's *reading*. This year is a whole different ballgame than last year was; five years ago is becoming unrecognizable and whatever happened ten years ago now looks pretty old and dated. *Reading is WAY different than what you learned in school.*
-
-***Reading*** now includes using and developing AI tools and LLM models to ingest and make sense of unimaginally massive amounts of text and other data. But reading still includes speedreading and skimming pages of content in seconds. It ALSO still includes DEEPLY focused reading and meditation on what was read. Whether it's AI-assisted OR developed skills in speedreading OR more intense, meditative deep reading, it's ALL *reading* -- it's a matter of time management and adapting the appropriate skill for the optimal way to *read* EVERYTHING.
-
-What information technology has done is that it have given us the capability to have *read* almost everything.
-
-AI represents the opportunity to make amazing technological leap forward, but not all people will be able to rewire their brains sufficiently to even contemplate making that leap. **Some will**. High agency people are reclaiming digital agency in intelligence gathering, partially through proficiency in AI-assisted ***reading*** technologies ... *"proficiency"* means understanding the technologies well enough to understand which ones are worth using and which are still gaseous vaporware.
-
-Conversely, low agency people will settle for the easy approach and just be satisfied what is dished up, because *low agency people are spectators.* ***Low agency people do not want to be bothered with the tasks of leveling up skills and staying in charge of their destiny.***
-
-Low agency people just want someone to conveniently deliver their comfort foods and the entertainment they consume. High agency people know better.
-
-High agency people understand why, especially in a digital age that ALL of the news and ALL of what consume and forward on social media, ALL search engine results and ALL AI chat response, whether they are tracked or not (ie even if they think they can browse annonymously), ALL of the convenient advertisement or product recommendation feeds they happen to see, ALL of the content conveniently suggested for them on YouTube or other purveyors ... **ALL OF IT** is being fed  to them [and the consumption tracked] to tell producers what to produce and what general demographic buys it.  
-
-**High agency people understand WHY they must take greater control of their information consumption and intelligence gathering.**
-
-For decades, if not more, the digital landscape has been increasingly dominated by recommendation engines and artificial intelligence systems that shape what we see, believe, and understand. While *promising* convenience *for those who do really consider what is happening*, these systems have centralized unprecedented power, *perhaps to an greater [because it's much more subtle] extent than in Orwell's 1984, in the hands of fewer and fewer technology corporations who control both the algorithms and the data they process.
-
-This is why Personal Assistant Agentic Systems (PAAS) represent both ***risk*** and **opportunity**:
-
-1. When controlled by private interests, they further concentrate information power, worth trillions in market value and social influence. These entities will fiercely protect their capacity to determine what information reaches consumers.
-
-2. When developed as personally-extensible, open-source infrastructures, PAAS *could* redistribute digital agency back to individuals and communities, but that is not automatic and is not even possible except for self-starting autodidacts who invest in their skills to actually become strategically savvy about intelligence gathering.
-
-## CONCRETE DEVELOPMENT PRIORITIES
-
-1. **Personal Data Vaults**: Create secure, user-controlled repositories for individuals to own information
-2. **Federated Learning Systems**: Develop models that learn collectively while keeping data localized
-3. **Algorithmic Transparency Tools**: Build interfaces revealing recommendation systems' decision criteria
-4. **Cross-Platform Portability**: Ensure users can migrate their digital assistants across services
-5. **Community Governance Frameworks**: Establish democratic oversight of shared infrastructure
-
-The existing digital hierarchy treats humans as extractable resources—sources of behavioral data and attention to be monetized. Open PAAS development offers a practical alternative: assistants that genuinely serve their users, not corporate sponsors.
-
-This is not utopian speculation but practical engineering work that has already begun in research labs and open-source communities worldwide. Join us in building digital tools that expand human capability without compromising human autonomy.
-## ACTION STEPS FOR IMPLEMENTATION
-
-1. Create community-maintained repositories of open PAAS development programs for self-starting autodidacts; these repositories must be accessible to all levels of autodidactic learning and thus use transparent, human-readable and AI-navigable MarkDown documentation/code
-
-2. Use entire ecosystems of Big Compute resources; devote more time/energy/$ becoming more savvy about the range of options available in these competitive ecosystems. In other words, spend less time in gear-acquistion mode purchasing and maintaining personally-owned hardware. Develop ecosystems of decentralized data storage approaches which build upon Git, Jujutsu and data-compatible DVCS system which give users control and are not centrally controlled, censored, manipulated, constrained hubs of sanitized content
-
-3. Build autodidactic learning resources to build literacy in personal agentic AI systems. The reason for autodidacticism is that humans learn best by teaching and teach best by learning. We need to READ and ***read even more critically***, but given the technology available, we no longer need to put any priority on memorization in education. **We annotate content, so that our future selves can be taught by our current selves who let go of their attachment to memory.**
-
-4. Engage in developer communities that are committed to user-centered agentic assistants and actively encourage information autonomy. Understand the active, visionary vibe of these communities in order to advance the cause of information autonomy RATHER than understanding the passive, spectator vibe of politics, sports, celebrities or propagandized newsholes.
-
-5. Work at being a better, actively engaged citizen of the digital age; decentralize leadership; encourage high-agency mindsets and high-agency cultures of independent thinkers. Attempt to better understand systems and failure points, then establish, build upon, strategize, refactor and generally always be improving more open, simpler, less failure-prone protocols for PAAS interoperability
-
-## STRATEGY FOR ACHIEVING THE IMPLEMENTATION
-##### With a complete how-to for we plan to dogfood intelligence gathering methods into a PAAS intelligence gathering framework.
-
-- [PRELUDE: THE GASEOUS NATURE OF HUMAN CREATIVE PROCESSES](#prelude-the-gaseous-nature-of-creative-process)
+- [PRELUDE: THE GASEOUS NATURE OF HUMAN CREATIVE PROCESSES](#preface-the-gaseous-nature-of-creative-process)
 - [I. BOTTLING THE AMBIENT VIBE: COMPREHENSIVE CAPTURE ARCHITECTURE](#i-bottling-the-ambient-vibe-comprehensive-capture-architecture)
   - [A. The Meta Physics or Observability Engineering of Creative Gas Capture](#a-the-meta-physics-of-creative-capture)
   - [B. Beyond The Facebook Interface: Technical Foundations in Tauri/Rust/Svelte ... why Tauri/Rust and not JS/GoLang](#b-technical-foundations-in-taurirustsvelte)
@@ -157,19 +97,77 @@ This is not utopian speculation but practical engineering work that has already 
   - [E. The New CounterTechnological Culture of Gas And Sniffing the Vibe](#e-the-new-technological-counterculture)
 - [XV. COSMIC CONCLUSION: GAS SHALL BE RELEASED](#xv-cosmic-conclusion-the-gas-shall-be-preserved)
 
-### PRELUDE: THE GASEOUS NATURE OF CREATIVE PROCESS
+### PREFACE: THE GASEOUS NATURE OF CREATIVE PROCESS
 
-In the linear narratives we construct after discovery, we lose the very essence of creation. The scientific method—with its sanitized hypothesis testing and methodical progression—is a fiction we tell ourselves after the chaotic reality of breakthrough has occurred. The true nature of discovery is non-linear, improvisational, and contextual—it exists as an ambient gas that we currently allow to dissipate into the cosmic void, forever lost to future generations.
+It is an absolutely fabulous, glorious, remarkable time for high agency people to be alive.
+
+More than just that, there's also no time like the present for starting on the process of [becoming an even higher agency person](https://x.com/i/grok/share/izQxmDXeoQI8Gk6mUj7SzIY31).
+
+Taking greater responsibility for intelligence gathering and personal knowledge engineering necessarily involves autodidactic skills development and *continuously* re-learning how to learn ... ***and how to explore, discover, create***.
+
+#### READERS are leaders. Leaders are better at READING.
+
+By ***"READING"*** we mean that leaders are better at mastering everything that is involved in READING a situation, a book, a person, a trend, a fight, a battlefield, or anything that the word "reading" might pertain to.
+
+Today's ***reading*** is a radically expanded version of yesterday's *reading*. This year is a whole different ballgame than last year was; five years ago is becoming unrecognizable and whatever happened ten years ago now looks pretty old and dated. *Reading is WAY different than what you learned in school.*
+
+***Reading*** now includes using and developing AI tools and LLM models to ingest and make sense of unimaginally massive amounts of text and other data. But reading still includes speedreading and skimming pages of content in seconds. It ALSO still includes DEEPLY focused reading and meditation on what was read. Whether it's AI-assisted OR developed skills in speedreading OR more intense, meditative deep reading, it's ALL *reading* -- it's a matter of time management and adapting the appropriate skill for the optimal way to *read* EVERYTHING.
+
+What information technology has done is that it have given us the capability to have *read* almost everything.
+
+AI represents the opportunity to make amazing technological leap forward, but not all people will be able to rewire their brains sufficiently to even contemplate making that leap. **Some will**. High agency people are reclaiming digital agency in intelligence gathering, partially through proficiency in AI-assisted ***reading*** technologies ... *"proficiency"* means understanding the technologies well enough to understand which ones are worth using and which are still gaseous vaporware.
+
+Conversely, low agency people will settle for the easy approach and just be satisfied what is dished up, because *low agency people are spectators.* ***Low agency people do not want to be bothered with the tasks of leveling up skills and staying in charge of their destiny.***
+
+Low agency people just want someone to conveniently deliver their comfort foods and the entertainment they consume. High agency people know better.
+
+High agency people understand why, especially in a digital age that ALL of the news and ALL of what consume and forward on social media, ALL search engine results and ALL AI chat response, whether they are tracked or not (ie even if they think they can browse annonymously), ALL of the convenient advertisement or product recommendation feeds they happen to see, ALL of the content conveniently suggested for them on YouTube or other purveyors ... **ALL OF IT** is being fed  to them [and the consumption tracked] to tell producers what to produce and what general demographic buys it.  
+
+**High agency people understand WHY they must take greater control of their information consumption and intelligence gathering.**
+
+For decades, if not more, the digital landscape has been increasingly dominated by recommendation engines and artificial intelligence systems that shape what we see, believe, and understand. While *promising* convenience *for those who do really consider what is happening*, these systems have centralized unprecedented power, *perhaps to an greater [because it's much more subtle] extent than in Orwell's 1984, in the hands of fewer and fewer technology corporations who control both the algorithms and the data they process.
+
+This is why Personal Assistant Agentic Systems (PAAS) represent both ***risk*** and **opportunity**:
+
+1. When controlled by private interests, they further concentrate information power, worth trillions in market value and social influence. These entities will fiercely protect their capacity to determine what information reaches consumers.
+
+2. When developed as personally-extensible, open-source infrastructures, PAAS *could* redistribute digital agency back to individuals and communities, but that is not automatic and is not even possible except for self-starting autodidacts who invest in their skills to actually become strategically savvy about intelligence gathering.
+
+## CONCRETE DEVELOPMENT PRIORITIES
+
+1. **Personal Data Vaults**: Create secure, user-controlled repositories for individuals to own information
+2. **Federated Learning Systems**: Develop models that learn collectively while keeping data localized
+3. **Algorithmic Transparency Tools**: Build interfaces revealing recommendation systems' decision criteria
+4. **Cross-Platform Portability**: Ensure users can migrate their digital assistants across services
+5. **Community Governance Frameworks**: Establish democratic oversight of shared infrastructure
+
+The existing digital hierarchy treats humans as extractable resources—sources of behavioral data and attention to be monetized. Open PAAS development offers a practical alternative: assistants that genuinely serve their users, not corporate sponsors.
+
+This is not utopian speculation but practical engineering work that has already begun in research labs and open-source communities worldwide. Join us in building digital tools that expand human capability without compromising human autonomy.
+## ACTION STEPS FOR IMPLEMENTATION
+
+1. Create community-maintained repositories of open PAAS development programs for self-starting autodidacts; these repositories must be accessible to all levels of autodidactic learning and thus use transparent, human-readable and AI-navigable MarkDown documentation/code
+
+2. Use entire ecosystems of Big Compute resources; devote more time/energy/$ becoming more savvy about the range of options available in these competitive ecosystems. In other words, spend less time in gear-acquistion mode purchasing and maintaining personally-owned hardware. Develop ecosystems of decentralized data storage approaches which build upon Git, Jujutsu and data-compatible DVCS system which give users control and are not centrally controlled, censored, manipulated, constrained hubs of sanitized content
+
+3. Build autodidactic learning resources to build literacy in personal agentic AI systems. The reason for autodidacticism is that humans learn best by teaching and teach best by learning. We need to READ and ***read even more critically***, but given the technology available, we no longer need to put any priority on memorization in education. **We annotate content, so that our future selves can be taught by our current selves who let go of their attachment to memory.**
+
+4. Engage in developer communities that are committed to user-centered agentic assistants and actively encourage information autonomy. Understand the active, visionary vibe of these communities in order to advance the cause of information autonomy RATHER than understanding the passive, spectator vibe of politics, sports, celebrities or propagandized newsholes.
+
+5. Work at being a better, actively engaged citizen of the digital age; decentralize leadership; encourage high-agency mindsets and high-agency cultures of independent thinkers. Attempt to better understand systems and failure points, then establish, build upon, strategize, refactor and generally always be improving more open, simpler, less failure-prone protocols for PAAS interoperability
+## I. Vibe Capture Architecture
+
+The fundamental principle driving this project is that **creative flow is fundamentally about the turbulent chaos ideas and the re-wiring of our neuroplastic brains such that the turbulence makes perfect sense.**
+
+In the linear narratives we construct after discovery to explain what we have done, so that others can understand OR maybe so that we can understand ourselves, we lose the very essence of creation. 
+
+The scientific method, for example, with its sanitized, lowest-common-denominator explainable-to-the-masses method of hypothesis testing and methodical progression is basically fiction that we tell ourselves after the chaotic reality of breakthrough has occurred. The true nature of discovery is non-linear, improvisational, and contextually TURBULENT. It exists as an ambient gas that we currently allow to dissipate into the cosmic void, forever lost to future generations.
 
 The Git paradigm, revolutionary as it was, captures only snapshots of creation—frozen moments in time separated by contextual chasms. What lies between commits? The cognitive jazz, the dead-ends, the sudden inspirations, the ambient conditions of discovery—these are the true story of creation, yet we let them vanish like smoke.
 
 GitFartler represents not merely an evolution but a revolution in how human creativity is preserved for posterity. By capturing the complete atmospheric conditions of creation—every keystroke, browser search, window switch, hesitation, and acceleration—we bottle the entire improvisational session for future minds to experience in its full, multidimensional glory.
 
 What follows is not merely a technical specification but a cosmic roadmap for transforming how humanity preserves its most precious resource: the creative process itself.
-
-## I. FARTLING UP VIBE ... discussion of vibe capture architecture
-
-***If I can see fartler, it's because I stand on the shoulders of a duck!***
 
 ### A. The Meta-Physics of Creative Capture
 
