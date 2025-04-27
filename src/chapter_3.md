@@ -1,3 +1,5 @@
+### Blogified Artifacts Of Investigations As We Work Thru The Plan
+
 ## A. [Rust Development Fundamentals](nested/sub-chapter_3.A.md)
 1. The Ownership & Borrowing Model in Rust: Implications for ML/AI Ops
 2. Error Handling Philosophy in Rust: Building Robust Applications
@@ -12,8 +14,8 @@
 11. The WASM-Rust Connection: Implications for ML/AI
 
 ## B. [Tauri Application Development](nested/sub-chapter_3.B.md)
-1. Tauri vs. Electron: Which Framework is Right for Your Desktop App?
-2. Building Cross-Platform Applications with Tauri and Svelte
+1. [Tauri vs. Electron: Which Framework is Right for Your Desktop App?](nested/nested/sub-chapter_3.B.1.md)
+2. [Building Cross-Platform Applications with Tauri and Svelte](nested/nested/sub-chapter_3.B.2.md)
 3. Addressing WebView Consistency Issues in Tauri Applications
 4. Creating an Intuitive Dashboard with Tauri and Svelte
 5. Tauri's Security Model: Permissions, Scopes, and Capabilities

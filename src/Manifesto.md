@@ -1,14 +1,13 @@
-## The GOAL of IntG ... the INTelligence Gathering project ... is the perfectly INFORMED citizen
+[***IntG will redefine INTELLIGENCE GATHERING. More high-agency citizens will be empowered. Near perfect information will be achieved.*** **INTELLIGENCE GATHERING is the IntG mission.**](https://x.com/i/grok/share/KgswgptxImGDF7fqQsFAVI8zi)
+## Toward a more PERFECTLY INFORMED citizen
 
 Perfection is a goal that cannot be achieved, but IntG can help individuals [who choose to] strive ***toward*** a decision-making environment that is economic theorists have referred to as [perfect information](https://en.wikipedia.org/wiki/Perfect_information). 
 
 Obviously, the whole point of giving high-agency citizens something approaching [perfect information](https://en.wikipedia.org/wiki/Perfect_information) is so that they are able to make much better life choices and even make better investments and better allocations of resources. We expect that the bulk of our world's populations will continue to be low-agency citizens who prefer to be spectators, passive consumers of information and lead lives in which they identify with celebrities, intellectuals, commentators, athletes and people who entertain, distract or tell them what they want to hear.
 
-***[IntG will redefine Intelligence Gathering. More high-agency citizens will be empowered. Near perfect information will be achieved. That is IntG.](https://x.com/i/grok/share/KgswgptxImGDF7fqQsFAVI8zi)***
+#### Not Just Information Autonomy, But Creative Flow
 
-#### MORE Than Just Information Autonomy
-
-The fundamental principle driving the IntG project is that **creative flow is fundamentally about the turbulent chaos ideas and the re-wiring of our neuroplastic brains such that the turbulence makes perfect sense.**
+The fundamental principle driving the IntG project is perfectly informed citizens making better resource allocations reinforces the productivity of those citizens for even higher achievements, even higher levels of agency. Our belief is that **creative flow is fundamentally about the turbulent chaos ideas and the re-wiring of our neuroplastic brains such that the turbulence makes perfect sense.**
 
 In the linear narratives we construct after discovery to explain what we have done, so that others can understand OR maybe so that we can understand ourselves, we lose the very essence of creation. 
 
