@@ -47,6 +47,7 @@
 - [Blogification](./chapter_3.md)
     - [Rust Dev Fundamentals](nested/sub-chapter_3.A.md)
     - [Tauri Development](nested/sub-chapter_3.B.md)
+        - [Tauri vs Electron](nested/nested/sub-chapter_3.B.1.md)
     - [ML/AI Development](nested/sub-chapter_3.C.md)
     - [ML/AIOps System Design](nested/sub-chapter_3.D.md)
     - [Personal Assistant Agentic Systems (PAAS)](nested/sub-chapter_3.E.md)
