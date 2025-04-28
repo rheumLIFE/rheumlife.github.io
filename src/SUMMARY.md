@@ -9,6 +9,7 @@
     - [Section 4: Model Optimization Techniques](nested/sub-chapter_5.4.md)
     - [Section 5: MLOps Integration and Workflows](nested/sub-chapter_5.5.md)
     - [Section 6: Cloud Deployment Strategies](nested/sub-chapter_5.6.md)
+        - [Specialized GPU Cloud Providers for Cost Savings](nested/nested/sub-chapter_5.6.82.md)
     - [Section 7: Real-World Case Studies](nested/sub-chapter_5.7.md)
     - [Section 8: Miscellaneous "Develop Locally, DEPLOY TO THE CLOUD" Content](nested/sub-chapter_5.8.md)
 - [50-Day Study Plan](./chapter_2.md)
