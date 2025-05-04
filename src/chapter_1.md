@@ -1,30 +1,6 @@
-# Chapter 1
+# Introduction To Knowledge Engineering
 
-### Introduction
-
-The next generation of developer tools stands at a crucial inflection point ... but maybe we could always have said that. What has changed is that artificial intelligence has made significant inroads into not only development environments, but also development cultures. Of course, most implementations of things like vibe coding remain seen as almost too disruptive, but these ideas are forcing developers to rethink rigid interaction patterns as well as how the technologies might actually be improved upon enough to really help,without, say for instance, interrupting an experience hypercapable senior developer's workflow flow with either some HR-interview-lingo, regurgitated PR mktgspeak OR some sophomoric regurgitated cliches or maybe some truly annoying ill-timed NOVICE-level bullshit or worse, some SENIOR-level hallucinatory, alzheimers addled confusion that makes one feel sorry for the AI having a long day. 
-
-The DAILY experience with AI assistants that people have is that, although the things can indeed be truly amazing, there are also numerous times when, under heavy use, the output is so infuriatingly disappointing that one can't go back to using the *assistance* until maybe tomorrow ... *when somebody at the home office has things fixed and working well enough for people to use again.* 
-
-This backgrounder proposes a fundamentally different approach: systems that embodies and aspires to extend what we call "the butler vibe" or more generally, from a variety of traditions, ***"the unimaginably capable servant vibe."*** We foresee a ubiquitous, invisible, anticipatory presence that learns organically from developer interactions without imposing structure or requiring explicit input.
-
-In order to survive in a complex world, our brains have to mix a large amount of information across space and time and as the nature of our tasks change, our brain's neuroplasticity means that we human adapt remarkable well. Modern workflows are not really that equivalent to our workflows of several decades ago and certainly they are practically unrelatable to our parents or grandparents. But better ideas for better workflows continue to emerge and we build our tools accordingly.
-
-For where we are at now, it makes sense to start with something like the technology behind GitButler's [almost *irrationally logical* innovative virtual branch system](https://blog.gitbutler.com/building-virtual-branches/). It is tough to imagine exactly what is happening or what kinds of things are being triggered in our brains as we use virtual branch technologies, but we might imagine a [turbulent dynamical neourological flow regime facilitating efficient energy and information transfer across spatiotemporal scales](https://www.connectedpapers.com/main/fc927e21d79f8665c9eb924f0dedb014c353f66c/Turbulence-as-a-framework-for-brain-dynamics-in-health-and-disease/graph). The PROOF is really in the results ... maybe virtual branching is effective, maybe it isn't. These things are probably like Git and Git-based workflows ... which ate the software development world in the last 20 years, **because Git and Git-based workflows just worked better**, and thus became ***the standard*** for VCS, as well as DVCS.
-
-What is really required is an **OPEN SOURCE** extensible, reconfigurable cognitive flow development environment that seamlessly captures the rich tapestry of developer activities—from code edits and emoji reactions to issue discussions and workflow patterns—without disrupting the creative process. Through unobtrusive observability engineering, these **extensible, reconfigurable** development environments can accelerate comprehensive contextual understanding that enables increasingly sophisticated AI assistance while maintaining the developer's flow state.
-
-This document explores both the philosophical foundations of the butler vibe and the technical architecture required to implement such systems. It presents a framework for ambient intelligence that emerges naturally from the "diffs of the small things," much as Zen wisdom emerges from mindful attention to everyday tasks.
-
-#### The Servant Vibe or the Butler Vibe Drives How We Build, Use, Extend PAAS Intelligence Gathering Systems"
-
-We have to expect more from our AI servants and that means being much more savvy about how AI serves and how to wrangle and annotate data to better direct our AI-assisted butlers. Serving the AI-assistant Butler who serves us is all about understanding the best of the best practics of the best of the best butlers. ***That is what the Butler Vibe is about.***
-
-**AI must serve humans.** But it is not going to have chance of doing that, ie it's being built to serve a very specific, very small subset of humans. If we want AI to serve *US*, the *we* are going need to take greater responsibility for building the systems that collect/wrangle data that AI will use so that AI can, in turn, actually ***serve*** all humans in their intelligence gathering capability.
-
-To put it another way ... if you think you can *served* by someone else's AI servant, then you are like the pig in the finishing barn who thinks that the guy who takes care of your feed, water, facilities is *serving* you, but as a feed-consuming pig, you are not being served, you are being taken care of by a servant who works for the operation that *delivers* ***the bacon*** and as long as you are *served* in this fashion, by not taking charge, you are on your way to being the product. 
-
-**AI must serve humans,** but unless you control the servant, you are not being served -- you are being *developed* into the product. 
+Knowledge engineering is based upon using different tools, methods, technologies to gather intelligence data and the critical evalation of that gathered data.  AI is significant in aiding us in this matter, but we need to recognize that **AI serves A PARTICULAR human purpose,** it does not serve all humans or serve them equally. Unless and until you take responsibility for knowledgably controlling a servant, you are not being served -- you are being *developed* by that servant, into a product for the humans who do knowledgably control the servant. 
 ## Summary Of Other Content In this Chapter
 
 - [The Butler Vibe: Philosophical Foundations](#the-butler-vibe-philosophical-foundations)
