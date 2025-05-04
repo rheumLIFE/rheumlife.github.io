@@ -1,19 +1,5 @@
 [***IntG will redefine INTELLIGENCE GATHERING. More high-agency citizens will be empowered. Near perfect information will be achieved.*** **INTELLIGENCE GATHERING is the IntG mission.**](https://x.com/i/grok/share/KgswgptxImGDF7fqQsFAVI8zi)
-## Toward a more PERFECTLY INFORMED citizen
-
-Perfection is a goal that cannot be achieved, but IntG can help individuals [who choose to] strive ***toward*** a decision-making environment that is economic theorists have referred to as [perfect information](https://en.wikipedia.org/wiki/Perfect_information). 
-
-Obviously, the whole point of giving high-agency citizens something approaching [perfect information](https://en.wikipedia.org/wiki/Perfect_information) is so that they are able to make much better life choices and even make better investments and better allocations of resources. We expect that the bulk of our world's populations will continue to be low-agency citizens who prefer to be spectators, passive consumers of information and lead lives in which they identify with celebrities, intellectuals, commentators, athletes and people who entertain, distract or tell them what they want to hear.
-
-#### Not Just Information Autonomy, But Creative Flow
-
-The fundamental principle driving the IntG project is perfectly informed citizens making better resource allocations reinforces the productivity of those citizens for even higher achievements, even higher levels of agency. Our belief is that **creative flow is fundamentally about the turbulent chaos ideas and the re-wiring of our neuroplastic brains such that the turbulence makes perfect sense.**
-
-In the linear narratives we construct after discovery to explain what we have done, so that others can understand OR maybe so that we can understand ourselves, we lose the very essence of creation. 
-
-The scientific method, for example, with its sanitized, lowest-common-denominator explainable-to-the-masses method of hypothesis testing and methodical progression is basically fiction that we tell ourselves after the chaotic reality of breakthrough has occurred. The true nature of discovery is non-linear, improvisational, and contextually TURBULENT. It exists as an ambient gas that we currently allow to dissipate into the cosmic void, forever lost to future generations.
-
-## Outline of our strategy for this project
+## Beyond Information Autonomy, To Creative Flow
 
 - [PRELUDE: THE GASEOUS NATURE OF HUMAN CREATIVE PROCESSES](#preface-the-gaseous-nature-of-creative-process)
 - [I. BOTTLING THE AMBIENT VIBE: COMPREHENSIVE CAPTURE ARCHITECTURE](#i-bottling-the-ambient-vibe-comprehensive-capture-architecture)
