@@ -1,8 +1,6 @@
 # Rhubarb or *Rheum*: Traditional Medicinal Uses And Modern Pharmacology
 
-We can start off simply enough with something like the [rhubarb entry in 2020 edition of Pharmacopoeia of the People's Republic of China](https://db.ouryao.com/yd2020/view.php?id=f82dba38c5) or maybe we prefer to start with [a Pubmed paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11089517/) or a visual [knowledgegraph of its links on Connected Papers](https://www.connectedpapers.com/main/437ffbd4fb2c95640c30bb3d679e9d992cbccab3/Rheum-officinale-(a-traditional-Chinese-medicine)-for-chronic-kidney-disease./graph), but regardless of how we gather intelligence ... ultimately, our aim is to build the tools that help us to thoroughly, exhaustively research [and update the current review of research] looking at ALL sources of information at our disposal, including web search, to develop an understanding of the science and general opinion of informed herbalists and practicioners of traditional chinese medicine on the efficacy of rhubarb and why/when/where/how it works or doesn't.
-
-***Obviously, if this can be done for rhubarb, it can be done for anything ... but rhubarb gives us a working example for us to build the tools.***
+***Rhubarb furnishes an excellent starting example for us to build the intelligence gathering and knowledge engineering toolchain that we will use to explore other topics, including the cultivation and culture of various plants that are important in herbal medicine.***
 ## **I. Rhubarb \- In Medicine and Cuisine**
 
 ### **A. Historical and Cultural Context**

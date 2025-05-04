@@ -1,7 +1,8 @@
 # Summary
 
-[Medicinal Rhubarb](Manifesto.md)
+[rheum.life](Manifesto.md)
 
+- [Medicinal Rhubarb](./chapter_7.md)
 - [Knowledge Engineering](./chapter_6.md)
 - [Develop Locally, Deploy To The Cloud](./chapter_5.md)
     - [Section 1: Foundations of Local Development for ML/AI](nested/sub-chapter_5.1.md)
