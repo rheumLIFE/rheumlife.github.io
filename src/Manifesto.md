@@ -2,7 +2,7 @@
 ## Beyond Information Autonomy, To Creative Flow
 
 - [PRELUDE: THE GASEOUS NATURE OF HUMAN CREATIVE PROCESSES](#preface-the-gaseous-nature-of-creative-process)
-- [I. FARTLING UP THE AMBIENCE: COMPREHENSIVE VIBE CAPTURE ARCHITECTURE](#i-bottling-the-ambient-vibe-comprehensive-capture-architecture)
+- [I. FARTLING UP THE AMBIENCE: TOTAL VIBE CAPTURE ARCHITECTURE](#i-bottling-the-ambient-vibe-comprehensive-capture-architecture)
   - [A.  Gas Capture And The Meta Physics Of Observability Engineering](#a-the-meta-physics-of-creative-capture)
   - [B. Beyond The Facebook Interface: Technical Foundations in Tauri/Rust/Svelte ... why Tauri/Rust and not JS/GoLang](#b-technical-foundations-in-taurirustsvelte)
   - [C. Multi-Modal Sensory Capture Implementation, ie Smell It Cooking](#c-multi-modal-sensory-capture-implementation)
