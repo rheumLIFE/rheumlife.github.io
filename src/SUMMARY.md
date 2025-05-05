@@ -3,6 +3,7 @@
 [rheum.life](Manifesto.md)
 
 - [Medicinal Rhubarb](./chapter_7.md)
+- [Rhubarb Backgrounder](./chapter_9.md)
 - [Knowledge Engineering](./chapter_8.md)
 - [Develop Locally, Deploy To The Cloud](./chapter_5.md)
     - [Section 1: Foundations of Local Development for ML/AI](nested/sub-chapter_5.1.md)

@@ -1,7 +1,11 @@
-*We can start off simply enough with something like the [rhubarb entry in 2020 edition of Pharmacopoeia of the People's Republic of China](https://db.ouryao.com/yd2020/view.php?id=f82dba38c5) or maybe we prefer to start with [a Pubmed paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11089517/) or a visual [knowledgegraph of its links on Connected Papers](https://www.connectedpapers.com/main/437ffbd4fb2c95640c30bb3d679e9d992cbccab3/Rheum-officinale-(a-traditional-Chinese-medicine)-for-chronic-kidney-disease./graph), but regardless of how we gather intelligence ... ultimately, our aim is to build the tools that help us to thoroughly, exhaustively research [and update the current review of research] looking at ALL sources of information at our disposal, including web search, to develop an understanding of the science and general opinion of informed herbalists and practicioners of traditional chinese medicine on the efficacy of rhubarb and why/when/where/how it works or doesn't.*
+*We could start off simply enough with something like the [rhubarb entry in 2020 edition of Pharmacopoeia of the People's Republic of China](https://db.ouryao.com/yd2020/view.php?id=f82dba38c5) or maybe we SHOULD start with [a Pubmed paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11089517/) and then follow where that paper goes, perhaps through a visual [knowledgegraph of its links on Connected Papers](https://www.connectedpapers.com/main/437ffbd4fb2c95640c30bb3d679e9d992cbccab3/Rheum-officinale-(a-traditional-Chinese-medicine)-for-chronic-kidney-disease./graph), but we should not imagine that AI assistants will give an unbiased view of the literature.* 
+
+***In fact, we should expect that AI assistants will give us a HIGHLY BIASED and DELIBERATELY INCOMPLETE view of the literature*** ... **UNLESS we control the AI assistant and control how the automated gathering of intelligence is done**
+
+Our aim, in example projects like [**rheum.life**](https://rheum.life) is to build the tools that help us to thoroughly, exhaustively research [and update the current review of research] looking at ALL sources of information at our disposal, including web search, to develop an understanding of the science and general opinion of informed herbalists and practicioners of traditional chinese medicine on the efficacy of rhubarb and why/when/where/how it works or doesn't.*
 
 
-# **Rhubarb (*Rheum* spp.): A Comprehensive Examination of Traditional Medicinal Uses, Modern Pharmacology, and Consumption Safety**
+# **Some Of The Traditional Medicinal Uses, Modern Pharmacology Errors, and Consumption Rules For Rhubarb**
 
 ## Table of Contents
 - [Introduction: Rhubarb - A Plant of Duality in Medicine and Cuisine](#introduction-rhubarb---a-plant-of-duality-in-medicine-and-cuisine)
